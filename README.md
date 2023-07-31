@@ -19,11 +19,11 @@ Web development is where my coding journey began, and it remains a core strength
 
 ### Java & Spring Lover
 
-☕ Java holds a special place in my heart as one of the first programming languages I learned. Building Java applications and leveraging Spring, a popular framework for developing Java-based enterprise applications, has been a fulfilling experience. Spring's modularity and ease of integration make it an excellent choice for large-scale projects.
+☕ Java holds a special place in my heart as one of the first programming languages I learned. Building Java applications and leveraging Spring, a popular framework for developing Java-based enterprise applications has been a fulfilling experience. Spring's modularity and ease of integration make it an excellent choice for large-scale projects.
 
 ### Embracing Learning & Growth
 
-📖 Programming is an ever-evolving field, and I firmly believe in continuous learning to stay relevant and informed about the latest technologies and best practices. I actively participate in online communities, attend tech conferences, and engage in personal projects to expand my skillset.
+📖 Programming is an ever-evolving field, and I firmly believe in continuous learning to stay relevant and informed about the latest technologies and best practices. I actively participate in online communities, attend tech conferences, and engage in personal projects to expand my skill set.
 
 ### Collaboration & Open Source Advocate
 
@@ -36,7 +36,7 @@ Beyond coding, I find solace in music, strumming my guitar and drawing inspirati
 
 As a devoted gamer, I immerse myself in the worlds of Dota 2, Stellaris, Warcraft, and Europa Universalis IV. 🎮🌌
 
-Reading is my escape, and "Ulysses" by James Joyce is my all-time favorite book, captivating my imagination with its intricate storytelling. 📚🌌
+Indulging in literature is my cherished escape, and among the vast array of books, "The Picture of Dorian Gray" by Oscar Wilde stands as my ultimate favorite. This captivating masterpiece weaves intricate storytelling that enthralls my imagination and transports me to an enchanting world of art and decadence. 📚🌌
 
 🦜 I have a soft spot for birds, especially budgies, and find joy in observing and caring for them. 🐦❤️
 
