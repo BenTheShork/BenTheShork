@@ -63,9 +63,6 @@ I'm a software developer focused on building practical solutions to real-world c
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
 ---
 
 <div align="center">
