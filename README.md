@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/dYZMra7uqDNJxotcSB/giphy.gif" width="50"> Vanya | Full Stack Developer
+# <img src="https://media.giphy.com/media/dYZMra7uqDNJxotcSB/giphy.gif" width="150"> Vanya | Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;Frontend+Engineer;Python+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
@@ -20,22 +20,28 @@
 
 ## 💻 About Me
 
-I'm a passionate software developer who loves crafting elegant solutions to real-world challenges. My journey in tech spans across various domains:
+I'm a software developer focused on building practical solutions to real-world challenges. Currently working on increasing my GitHub presence - while many of my projects are stored locally, I'm actively migrating and sharing more of my work here. My journey in tech spans across various domains:
 
 ### 🌐 Web Development
 - Proficient in both frontend and backend development
 - Experience with modern frameworks and libraries
 - Focus on creating responsive and user-friendly applications
 
-### 🐍 Python & Django
+### 🐍 Python, Django & ML
 - Building scalable web applications
 - Data analysis and automation
-- Machine learning projects
+- Exploring machine learning with projects like ExpenseSense for financial predictions
+- Implementing predictive models and experimenting with different ML algorithms
 
 ### ☕ Java & Spring
 - Enterprise application development
 - Microservices architecture
 - RESTful API design
+
+### 🦀 Rust
+- Systems programming experience
+- Memory-safe application development
+- Performance-critical solutions
 
 ## 📈 GitHub Stats
 
