@@ -1,9 +1,14 @@
-# <img src="https://media.giphy.com/media/dYZMra7uqDNJxotcSB/giphy.gif" width="150"> Vanya | Full Stack Developer
+<div align="center">
+
+# <img src="https://media.giphy.com/media/dYZMra7uqDNJxotcSB/giphy.gif" width="150"> 
+
+# Vanya | Full Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;Frontend+Engineer;Python+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stack & Tools
 
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -18,9 +23,11 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+---
+
 ## 💻 About Me
 
-I'm a software developer focused on building practical solutions to real-world challenges. Currently working on increasing my GitHub presence - while many of my projects are stored locally, I'm actively migrating and sharing more of my work here. My journey in tech spans across various domains:
+I'm a software developer focused on building practical solutions to real-world challenges. Currently working on increasing my GitHub presence - while many of my projects are stored locally, I'm actively migrating and sharing more of my work here.
 
 ### 🌐 Web Development
 - Proficient in both frontend and backend development
@@ -43,28 +50,45 @@ I'm a software developer focused on building practical solutions to real-world c
 - Memory-safe application development
 - Performance-critical solutions
 
+---
+
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenTheShork&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenTheShork&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenTheShork&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenTheShork&layout=compact&langs_count=7&theme=radical"/>
+
+---
 
 ## 🌟 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BenTheShork&repo=ExpenseSense-&theme=radical)](https://github.com/BenTheShork/ExpenseSense-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BenTheShork&repo=ExpenseSense-&theme=radical)](https://github.com/BenTheShork/Golem-s-Dominion)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BenTheShork&repo=FinanceMe&theme=radical)](https://github.com/BenTheShork/FinanceMe)
 
-## 🎵 Beyond Coding
+---
 
+## 🎵 Beyond Coding
 - 🎸 Music enthusiast (David Bowie & Bauhaus)
 - 📚 Literature lover (Favorite: "Ulysses" by James Joyce)
 - 🦜 Bird enthusiast, especially budgies
 
+---
+
 ## 📫 Let's Connect!
+
+<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/your-twitter" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BenTheShork&color=blueviolet&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=BenTheShork&color=blueviolet&style=flat-square">
+
 </div>
