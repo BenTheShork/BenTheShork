@@ -1,5 +1,3 @@
-<img align="right" width="150" src="ССЫЛКА_НА_ФОТО_ПОПУГАЯ">
-
 # Vanya
 
 > Backend developer. Most of my code lives in private repos at the places I've
